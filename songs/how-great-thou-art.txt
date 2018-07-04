@@ -1,0 +1,38 @@
+{title: How Great Thou Art}
+{composer: Stuart H. Kine}
+{tempo: 108}
+{transpose: 9}
+{key: C}
+
+{start_of_verse: Intro}
+[C ///][Csus ///]
+{ci: Vamp root to sus4}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+O Lord my [C]God, When I in [F]awesome wonder
+Consider [Am7]all the [G]worlds Thy Hands have [C]made
+I see the [C]stars, I hear the [F]rolling thunder
+Thy power through[Am7]out the [G]universe dis[C]played
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+Then sings my [Am7]soul, My [F]Savior God, to [C]Thee
+How great Thou [G]art,[F] How great Thou [C]art
+Then sings my [Am7]soul, My [F]Savior God, to [C]Thee
+How great Thou [G]art,[F] How great Thou [C]art
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+And when I [C]think, that God, His [F]Son not sparing
+Sent Him to [Am7]die, I [G]scarce can take it [C]in
+That on the [C]Cross, my burden g[F]ladly bearing
+He bled and [Am7]died to [G]take away my [C]sin
+{end_of_verse: Verse 2}
+
+{start_of_verse: Verse 3}
+When Christ shall [C]come, with shout of [F]acclamation
+And take me [Am7]home, what [G]joy shall fill my [C]heart
+Then I shall [C]bow, in humble [F]adoration
+And then pro[Am7]claim My [G]God, how great Thou [F]art
+{end_of_verse: Verse 3}

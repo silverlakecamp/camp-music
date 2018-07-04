@@ -1,0 +1,28 @@
+{title: Title}
+{composer: Author}
+{tempo: tempo}
+{time: time}
+{transpose: }
+{key: key}
+
+{start_of_verse: Intro}
+[D ///][Bm9 ///][F#m ///][G ///]
+{ci: Intro instructions}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+{end_of_verse: Verse 1}
+
+{c: Repeat Intro x2}
+
+{soc: Chorus}
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+{end_of_verse: Verse 2}
+
+{start_of_verse: Verse 3}
+{end_of_verse: Verse 3}
+
+{soc: Bridge}
+{eoc: Bridge}

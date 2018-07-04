@@ -1,0 +1,33 @@
+{title: New Doxology}
+{composer: Thomas Ken, Genevan Psalter, Thomas Miller}
+{tempo: 74}
+{time: 4/4}
+{transpose: 9}
+{key: G}
+
+{start_of_verse: Verse 1}
+[G]Praise God from whom all blessings flow
+[G]Praise Him all creatures here below
+[G]Praise Him above, ye heavenly hosts
+Praise [G]Father, Son and Ho-[D]ly [G]Ghost
+{end_of_verse: Verse 1}
+
+{start_of_verse: Verse 2}
+[G]Let earth and heavenly saints proclaim
+[G]The power and might of His great name
+[G]Let us exalt on bended know
+[G]Praise God, the Holy Tri – [D]ni - [G]ty
+{end_of_verse: Verse 2}
+
+{soc: Chorus}
+Praise [C]God,  praise [G/B]God,  praise [Am7]God,  who saved my [D]soul
+[G/B]Praise [C]God,  praise [G/B]God,  praise [Am7]God from Whom all [Dsus]bless - [D]ings flow[G]
+{eoc: Chorus}
+
+{start_of_verse: Verse 3}
+[G]Praise to the King, His throne transcends
+[G]His crown and Kingdom never end
+[G]Now and throughout eternity
+[G]Praise God, the Holy Tri – [D]ni - [G]ty
+[G]I’ll praise the One who died [D]for [G]me
+{end_of_verse: Verse 3}

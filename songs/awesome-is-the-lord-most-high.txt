@@ -1,0 +1,37 @@
+{title: Awesome is the Lord Most High}
+{composer: Cary Pierce, Chris Tomlin, Jesse Reeves, Jon Abel}
+{tempo: 133}
+{transpose: 9}
+{key: G}
+
+{start_of_verse: Verse 1}
+[G]Great are You, Lord, mighty in [D]strength
+[C2]You are faithful, and You will ever [G]be
+We will praise You all of our [D]days
+[C2]It's for Your glory we offer everything[Em7] [D/F#]
+{end_of_verse: Verse 1}
+
+{soc: Chorus 1}
+Raise your [G]hands all you nations
+Shout to [D/F#]God all creation
+How [Em7]awesome is the Lord most high[C2]
+{eoc: Chorus 1}
+
+{start_of_verse: Verse 2}
+[G]Where You send us, God, we will [D]go
+[C2]You're the answer we want the world to know
+[G]We will trust You when You call our [D]name
+[C2]Where You lead us we'll follow all the way[Em7] [] [D/F#]
+{end_of_verse: Verse 2}
+
+{chorus: Chorus 1}
+
+{soc: Chorus 2}
+We will [G]praise You together, for [D/F#]now and forever
+How [Em7]awesome is the Lord most high[C2]
+{eoc: Chorus 2}
+
+{soc: Bridge}
+[G]Hallelujah, [D]hallelujah
+How [Em7]awesome is the Lord most high[C2]
+{eoc: Bridge}

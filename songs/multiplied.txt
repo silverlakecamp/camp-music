@@ -1,0 +1,44 @@
+{title: Multiplied}
+{composer: Bear Rinehart, Bo Rinehart}
+{tempo: 115}
+{time: 4/4}
+{transpose: 9}
+{key: G}
+
+{start_of_verse: Intro}
+[G /// ////]
+{ci: Acoustic picking riff}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+Your [G]love is like radiant [C]diamonds
+Bursting in-[G]side us we cannot [D] contain
+Your [Em]love will surely come [C] find us
+Like blazin' wild-[G]fires [D] singing Your [G] name
+{end_of_verse: Verse 1}
+
+{soc: Chorus 1A}
+God of [G]mercy sweet love of [C]mine
+I have sur-[G]rendered to Your de-[D]sign [D7]
+May this [Em]offering stretch across the [C]skies
+These halle-[G]lujahs [D]be multi-[G]plied
+{eoc: Chorus 1A}
+
+{start_of_verse: Instrumental 1}
+[G /// ////][C /// ////][G /// ////][D /// ////]
+(- plied)
+[Em /// ////][C /// ////][G ///][D ///][G /// ////]
+{end_of_verse: Instrumental 1}
+
+{start_of_verse: Instrumental 2}
+[Em /// ////][C /// ////][G /// ////][D /// ////]
+[Em /// ////][C /// ////][G ///][D ///][G /// ////]
+{end_of_verse: Instrumental 2}
+
+{soc: Chorus 1B}
+God of [Em]mercy sweet love of [C]mine
+I have sur-[G]rendered to Your de-[Dsus]sign [D]
+May this [Em]offering stretch across the [C]skies
+These halle-[G]lujahs [D] be multi-[Em]plied [C]
+These halle-[G]lujahs [D] be multi-[G]plied
+{eoc: Chorus 1B}

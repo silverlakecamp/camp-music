@@ -1,0 +1,59 @@
+{title: Whom Shall I Fear}
+{composer: Chris Tomlin, Ed Cash, Scott Cash}
+{tempo: 74}
+{transpose: 9}
+{key: C}
+
+{start_of_verse: Intro}
+[C /// ////][Fsus2 /// ////]
+{ci: Electric Guitar lead line}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+[C] You hear me when I call You are my morning song
+[F2] Though darkness fills the night it cannot hide the light
+[Am7] Whom shall I [F2]fear
+[C] You crush the enemy underneath my feet
+[F2] You are my sword and shield though troubles linger still
+[Am7] Whom shall I [F2]fear
+{end_of_verse: Verse 1}
+
+{soc: Chorus 1}
+[Am7] I know who [G]goes be[C]fore me [Am7] I know who [G]stands be[C]hind
+[Am7] The God of [F2]angel armies [F2] is always [G]by my [C]side
+[Am7] The One who [G]reigns for[C]ever [Am7] He is a [G]friend of [C]mine
+[Am7] The God of [F2]angel armies [F2] is always [G]by my [C]side
+{eoc: Chorus 1}
+
+{start_of_verse: Verse 2}
+[C] My strength is in Your name for You alone can save
+[F2] You will deliver me Yours is the victory
+[Am7] Whom shall I [F2]fear
+[Am7]  [F2]Whom shall I [Gsus4]fear
+{end_of_verse: Verse 2}
+
+{c: REPEAT CHORUS 1}
+
+{np}
+{soc: Bridge}
+[F2] Nothing formed a[C]gainst me shall [G]stand
+[C] You hold the whole world in Your [F2]hands
+[F2 ]I'm holding [C]on to Your [Am7]promi[G]ses
+You are [F2]faithful, You are [G]faithful
+[F2] Nothing formed a[C]gainst me shall [G]stand
+[C] You hold the whole world in Your [F2]hands
+[F2 ]I'm holding [C]on to Your [Am7]promi[G]ses
+You are [F2]faithful, You are [G]faithful, You are [Am7]faithful [G/B]
+{eoc: Bridge}
+
+{c: REPEAT CHORUS 1}
+
+{soc: Chorus 2}
+[C] I know who goes before me [G/B] I know who stands behind
+[Am7] The God of angel armies [F] is always by my side
+[C] The One who reigns forever [G/B] He is a friend of mine
+[Am7] The God of angel armies [F] is always by my side
+[Am7] The God of [F]angel armies is always by my side [C]
+{eoc: Chorus 2}
+
+

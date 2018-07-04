@@ -1,0 +1,53 @@
+{title: Ever Be}
+{composer: Kalley Heiligenthal, Gabriel Wilson, Chris Greely, Bobby Strand}
+{tempo: 69}
+{time: 4/4}
+{transpose: 2}
+{key: D}
+
+{start_of_verse: Intro}
+[D ///][Bm9 ///][F#m ///][G ///]
+{ci: Guitar fingerpicking, Synth pad strings on melody line}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+[D]Your love is devoted [Em]like a ring of solid gold [G]
+Like a vow that is tested [F#m] like a [A]covenant of [D]old
+Your love is enduring [Em]through the winter [G]rain
+And beyond the horizon [F#m] with [A] mercy for [G]today
+{end_of_verse: Verse 1}
+
+{start_of_chorus: Pre-Chorus 1}
+[G]Faithful You have [D]been and faithful you will [A]be
+You pledge yourself to [Em]me and it’s why I sing
+{end_of_chorus: Pre-Chorus 1}
+
+{soc: Chorus}
+Your [G]praise will ever be on my [D]lips, ever be on my lips
+Your [Bm]praise will ever be on my [A]lips, ever be on my lips
+{eoc: Chorus}
+
+{c: Repeat Intro x2}
+
+{start_of_verse: Verse 2}
+[D]You Father the orphan [Em]Your kindness makes us whole [G]
+You shoulder our weakness [F#m] And Your [A]strength becomes our own
+[D]You’re making me like you [Em] Clothing me in white [G]
+Bringing beauty from ashes [F#m]For You will have Your [A]bride
+{end_of_verse: Verse 2}
+
+{start_of_chorus: Pre-Chorus 2}
+[G]Free of all her [D]guilt and rid of all her [A]shame
+And known by her true [Em]name and it’s why I sing
+{end_of_chorus: Pre-Chorus 2}
+
+{c: Repeat Chorus}
+
+{soc: Bridge}
+[D]You will be praised [A]You will be praised
+[Bm]With angels and saints we sing [G]worthy are You Lord
+[D]You will be praised [Em]You will be praised
+[Bm]With angels and saints we sing [G]worthy are You Lord [D]
+{eoc: Bridge}
+
+{c: Repeat Chorus}

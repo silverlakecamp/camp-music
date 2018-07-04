@@ -1,0 +1,30 @@
+{title: Holy and Anointed One}
+{composer: John Barnett}
+{tempo: 65}
+{time: 2/4}
+{transpose: 9}
+{key: G}
+
+{start_of_verse: Intro}
+[G ///][Bm7 ///][C ///]
+{ci: Piano soft intro, x2}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+[G]Je-[Bm7]-[C]sus, [G]Je-[D]-[C]sus
+[G]Holy [D]and A[C]noi[C/B]nted [Am7]One
+[Dsus]Je-[D7]-[G]sus
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+Your name is like [C]honey on my [G]lips
+Your spirit like [C]water to my [G]soul
+Your word is a [C]lamp unto my [Em7]feet
+Jesus I [C]love You, I love [D]You
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+[G]Je-[Bm7]-[C]sus, [G]Je-[D]-[C]sus
+[G]Risen [D]and Ex[C]al[C/B]nted [Am7]One
+[Dsus]Je-[D7]-[G]sus
+{end_of_verse: Verse 2}

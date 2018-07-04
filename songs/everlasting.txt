@@ -1,0 +1,34 @@
+{title: Everlasting}
+{composer: Brian Doerksen, Matt Unruh}
+{tempo: 136}
+{transpose: }
+{key: A}
+
+{start_of_verse: Verse 1}
+In [E]holiness You stand secure through [Bm7]culture's shifting [A]sands
+Un-[E]changed by all the vanities of [D]man
+And [E]as the nations rise and fall, Your [Bm7]sov'reignty re-[A]mains
+[F#m]You are [E/G#]You are [Dsus2]You are the one true [E]God
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+[A]From everlasting [E/G#] to everlasting
+[D]You are [A]God
+From everlasting [E/G#] to everlasting
+[D]You are [A]God
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+In [E]faithfulness Your love extends through [Bm7]times of turbu-[A]lence
+A-[E]dopting those who call upon Your [D]name
+And [E]ev'ry generation joins in [Bm7]songs of grateful [A]praise
+[F#m]You are [E/G#]You are [Dsus2]You are the one true [E]God
+{end_of_verse: Verse 2}
+
+{soc: Bridge}
+[A]Eternal im-[E/G#]mortal in-[D]visible [A]God
+[A]Eternal im-[E/G#]mortal in-[D]visible [A]God
+[A]Eternal im-[E/G#]mortal in-[D]visible [A]God
+[A]Eternal im-[E/G#]mortal in-[D]visible [A]God
+[D]You are [A]God, [D]You are [A]God
+{eoc: Bridge}

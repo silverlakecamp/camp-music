@@ -1,0 +1,46 @@
+{title: Jesus, Son of God}
+{composer: Chris Tomlin, Jason Ingram, Matt Maher}
+{tempo: 76}
+{time: 4/4}
+{transpose: 5}
+{key: B}
+
+{start_of_verse: Intro}
+[B ///][E/B ///][F#m ///][E/B ///]
+{ci: Guitar fingerpicking, Synth pad on root chord}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+[B]You came down from [E/B]Heaven's throne
+This [F#/B]Earth You formed was [E/B]not Your home
+A [G#m7]love like this the[E/B]world had never [B]known
+A [B]crown of thorns to [E/B]mock Your name
+For[F#/B]giveness fell up[E/B]on Your face
+A [G#m7]love like this the [E/B]world had never [B]known
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+On the [B]altar of our praise Let there [B]be no higher name
+[E]Jesus, [B/D#]Son of [F#sus]God
+You laid [G#m7]down Your perfect life You [F#/A#]are the sacri[B]fice
+[E]Jesus, [B/D#]Son of [F#sus]God
+You are [E]Jesus, [B/D#]Son of [F#sus]God
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+You [B]took our sin You [E/B]bore our shame
+You [F#/B]rose to life You de[E/B]feated the grave
+A [G#m7]love like this the [E/B]world has never [B]known
+You [B]took our sin You [C#m7]bore our shame
+You [B/D#]rose to life You de[E]feated the grave
+A [B/F#]love like this the [E/G#]world has never [B/D#]kno [E] -  [F#sus]wn
+{end_of_verse: Verse 2}
+
+{c: Repeat Chorus}
+
+{soc: Bridge}
+Be lifted [E]higher than all You've [B]over-[F#sus]come
+Your name be [E]louder than any [B]other [F#sus]song
+There is no [E/G#]power that can [B/D#]come against Your [F#sus]love
+The [E]cross was e[B/D#]nough The [G#m7]cross was e[F#sus]nough
+{eoc: Bridge}

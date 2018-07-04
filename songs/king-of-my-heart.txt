@@ -1,0 +1,50 @@
+{title: King of My Heart}
+{composer: John Mark McMillan, Sarah McMillan }
+{tempo: 68}
+{transpose: 4}
+{key: Bb}
+
+{start_of_verse: Intro}
+[Gm //][F //][Eb //][Bb //]
+{ci: Chorus riff, half notes}
+{end_of_verse: Intro}
+
+{start_of_verse: Verse 1}
+[Bb]Let the King of my heart be the [Eb]mountain when I [Bb]run
+The [Gm]fountain I drink [F]from; Oh He [Eb]is my [Bb]song
+Let the [Bb]King of my heart be the [Eb]shadow where I [Bb]hide
+The [Gm]ransom for my [F]life; oh He [Eb]is my [Bb]song
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+You are [Gm]good [F]good, [Eb]Oh   [Bb]
+You are [Gm]good, [F]good [Eb]Oh   [Bb]
+{eoc: Chorus}
+
+{start_of_verse: Verse 2}
+Let the [Bb]King of my heart be the [Eb]wind inside my [Bb]sails
+The [Gm]anchor in the [F]waves; Oh He [Eb]is my [Bb]song
+Let the [Bb]King of my heart be the [Eb]fire inside my [Bb]veins
+And the [Gm]echo of my [F]days; Oh He [Eb]is my [Bb]song
+{end_of_verse: Verse 2}
+
+{c: Repeat Chorus}
+
+{soc: Bridge 1 (2x)}
+[Bb]You're never gonna let Never gonna let me down
+[Gm]You're never gonna let Never gonna let me down
+[Bb]You're never gonna let Never gonna let me down
+[Gm]You're never gonna let [F]Never gonna let me down
+{eoc: Bridge 1}
+
+{c: Repeat Chorus}
+
+{soc: Bridge 2 (4x)}
+[Gm]You're [F]never gonna let,
+[Eb]Never gonna let [Bb]me down
+{eoc: Bridge 2}
+
+{soc: Ending}
+[Eb]When the [Gm]night is [F]holding [Eb]onto [Bb]me
+[Cm]God is [Bb]holding [Eb]on
+{eoc: Ending}

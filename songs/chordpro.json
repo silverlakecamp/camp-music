@@ -1,0 +1,160 @@
+{
+   "chords" : [],
+   "diagnostics" : {
+      "format" : "\"%f\", line %n, %m\n\t%l"
+   },
+   "diagrams" : {
+      "auto" : false,
+      "show" : 0,
+      "sorted" : false
+   },
+   "metadata" : {
+      "keys" : [
+         "title",
+         "subtitle",
+         "artist",
+         "composer",
+         "lyricist",
+         "arranger",
+         "album",
+         "copyright",
+         "year",
+         "key",
+         "time",
+         "tempo",
+         "capo",
+         "duration"
+      ],
+      "separator" : "; ",
+      "strict" : true
+   },
+   "pdf" : {
+      "capoheading" : "%{capo|Capo: %{}}",
+      "chordscolumn" : 0,
+      "chorus" : {
+         "bar" : {
+            "color" : "gray",
+            "offset" : 8,
+            "width" : 0.5
+         },
+         "indent" : 0,
+         "recall" : {
+            "quote" : true,
+            "tag" : "Chorus",
+            "type" : "chorus"
+         },
+         "tag" : "Chorus"
+      },
+      "columnspace" : 20,
+      "diagrams" : {
+         "height" : 8,
+         "hspace" : 3.95,
+         "linewidth" : 0.1,
+         "show" : "right",
+         "vcells" : 4,
+         "vspace" : 3,
+         "width" : 8
+      },
+      "even-odd-pages" : 1,
+      "fontdir" : [],
+      "fonts" : {
+         "chord" : {
+            "name" : "Helvetica-Bold",
+            "size" : 12
+         },
+         "comment" : {
+            "name" : "Helvetica",
+            "size" : 12
+         },
+         "comment_italic" : {
+            "name": "Courier",
+            "size": 10
+         },
+         "grid" : {
+            "name" : "Helvetica",
+            "size" : 10
+         },
+         "tab" : {
+            "name" : "Courier",
+            "size" : 10
+         },
+         "text" : {
+            "name" : "Helvetica",
+            "size" : 12
+         },
+         "title" : {
+            "name" : "Helvetica-Bold",
+            "size" : 14
+         },
+         "toc" : {
+            "name" : "Helvetica",
+            "size" : 11
+         }
+      },
+      "footspace" : 20,
+      "formats" : {
+         "default" : {
+            "footer" : [
+               "%{title}",
+               "",
+               "%{page}"
+            ],
+            "subtitle" : null,
+            "title" : null
+         },
+         "first" : {
+            "footer" : null
+         },
+         "title" : {
+            "footer" : [
+               "",
+               "",
+               "%{page}"
+            ],
+            "subtitle" : [
+               "%{composer|%{}}",
+               "",
+               "%{tempo|(%{} bpm)} %{time|%{}}"
+            ],
+            "title" : [
+               "%{title}",
+               "",
+               "%{key|Key of %{}}"
+            ]
+         }
+      },
+      "head-first-only" : false,
+      "headspace" : 60,
+      "labels" : {
+         "align" : "left",
+         "width" : "auto"
+      },
+      "marginbottom" : 40,
+      "marginleft" : 40,
+      "marginright" : 40,
+      "margintop" : 80,
+      "papersize" : "a4",
+      "showlayout" : false,
+      "spacing" : {
+         "chords" : 1.2,
+         "empty" : 1,
+         "grid" : 1.2,
+         "lyrics" : 1.2,
+         "tab" : 1,
+         "title" : 1.2,
+         "toc" : 1.4
+      },
+      "titles-directive-ignore" : true
+   },
+   "settings" : {
+      "columns" : 1,
+      "inline-chords" : false,
+      "lyrics-only" : false,
+      "suppress-empty-chords" : true,
+      "titles" : "center"
+   },
+   "toc" : {
+      "order" : "page",
+      "title" : "Table of Contents"
+   }
+}

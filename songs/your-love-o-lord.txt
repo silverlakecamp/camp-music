@@ -1,0 +1,25 @@
+{title: Your Love O Lord}
+{composer: Brad Avery, David Carr, Mac Powell, Mark D. Lee, Tai Anderson}
+{tempo: 88}
+{time: 4/4}
+{transpose: 9}
+{key: G}
+
+{start_of_verse: Verse}
+Your [G]love O Lord [C2] Reaches to the [G]heavens [D2/F#]
+Your [Em]faithfulness [C2] Stretches to the [G]sky [D2/F#]
+[Em7]Your righteous-[C2]ness Is like the mighty [G]mountains [D2/F#]
+Your [Em]justice flows [C2]Like the ocean's [G]tide [D]
+{end_of_verse: Verse}
+
+{soc: Chorus}
+I will lift my [D2] voice
+To [C2]worship You my [G]King
+I will find my [D2] strength
+In the [C2]shadow of Your [Am7]wings [D]
+{eoc: Chorus}
+
+{soc: Ending}
+Your [G]love O Lord [C2] Reaches to the [G]heavens [D/F#]
+Your [Em]faithfulness [C2] Stretches to the [G]sky
+{eoc: Ending}
