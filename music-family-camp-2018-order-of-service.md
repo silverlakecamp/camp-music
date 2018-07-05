@@ -11,7 +11,7 @@
 ## Monday July 9
 
 1. Whom Shall I fear (Angel Armies) (A)
-1. Marvelous Light (A) *
+1. Lion and the Lamb (A) *
 1. Everlasting to Everlasting (A)
 1. How Great Thou Art (A)
 1. King of My Heart (D)
@@ -27,7 +27,7 @@
 ## Wednesday July 11
 
 1. Victory in Jesus (G)
-1. When the Saints Go Marching in (G)
+1. When the Saints Go Marching in (G) *
 1. There's Power in the Blood (G)
 1. Chainbreaker (G)
 1. Good, Good Father (G)
@@ -37,7 +37,7 @@
 1. Everlasting God (A)
 1. Never Let Go (A)
 1. Death Was Arrested (A - A#)
-1. Break Every Chain (A)
+1. Break Every Chain (A) (Jesus Culture)
 1. Consuming Fire (G)
 1. Eagles Wings (G)
 
