@@ -11,7 +11,7 @@
 ## Monday July 9
 
 1. Whom Shall I fear (Angel Armies) (A)
-1. Lion and the Lamb (A) *
+1. Lion and the Lamb (A)
 1. Everlasting to Everlasting (A)
 1. How Great Thou Art (A)
 1. King of My Heart (D)
