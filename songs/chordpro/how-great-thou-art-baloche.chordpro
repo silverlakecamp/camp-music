@@ -1,0 +1,51 @@
+{title: How Great Thou Art}
+{composer: Paul Baloche}
+{tempo: 108}
+{time: 4/4}
+{transpose: -3}
+{key: C}
+
+{start_of_verse: Intro (2x)}
+[C][Csus]
+{ci: Guitar, Bass, Drums}
+{end_of_verse: Intro (2x)}
+
+{start_of_verse: Verse 1}
+O Lord my [C]God, When I in [F]awesome wonder
+Consider [C]all the [G]worlds Thy Hands have [C]made
+I see the [C]stars, I hear the [F]rolling thunder
+Thy power through[C]out the [G]universe dis[C]played
+{end_of_verse: Verse 1}
+
+{soc: Chorus}
+Then sings my [C]soul, My [F]Savior God, to [C]Thee
+How great Thou [G]art, How great Thou [C]art
+Then sings my [C]soul, My [F]Savior God, to [C]Thee
+How great Thou [G]art, How great Thou [Bb]art [F] [C]
+{eoc: Chorus}
+
+{c: VAMP}
+
+{start_of_verse: Verse 2}
+And when I [C]think, that God, His [F]Son not sparing
+Sent Him to [C]die, I [G]scarce can take it [C]in
+That on the [C]Cross, my burden g[F]ladly bearing
+He bled and [C]died to [G]take away my [C]sin
+{end_of_verse: Verse 2}
+
+{c: REPEAT CHORUS}
+{c: VAMP}
+{c: REPEAT CHORUS}
+
+{start_of_verse: Verse 3}
+When Christ shall [C]come, with shout of [F]acclamation
+And take me [C]home, what [G]joy shall fill my [C]heart
+Then I shall [C]bow, in humble [F]adoration
+And then pro[C]claim My [G]God, how great Thou [F]art
+{end_of_verse: Verse 3}
+
+{c: REPEAT CHORUS}
+
+{start_of_verse: Tag (2x)}
+How great Thou [Bb]art [F] [C]
+{end_of_verse: Tag}
