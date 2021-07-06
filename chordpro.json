@@ -96,14 +96,18 @@
          "default" : {
             "footer" : [
                "%{title}",
-               "",
+               "%{copyright}",
                "%{page}"
             ],
             "subtitle" : null,
             "title" : null
          },
          "first" : {
-            "footer" : null
+            "footer" : [
+               "%{title}",
+               "%{copyright}",
+               "%{page}"
+            ]
          },
          "title" : {
             "footer" : [
