@@ -96,7 +96,7 @@
          "default" : {
             "footer" : [
                "%{title}",
-               "%{copyright}",
+               "Silver Lake Wesleyan Camp, CCLI License #11067220",
                "%{page}"
             ],
             "subtitle" : null,
@@ -105,13 +105,13 @@
          "first" : {
             "footer" : [
                "%{title}",
-               "%{copyright}",
+               "Silver Lake Wesleyan Camp, CCLI License #11067220",
                "%{page}"
             ]
          },
          "title" : {
             "footer" : [
-               "",
+               "%{title}",
                "",
                "%{page}"
             ],
