@@ -117,7 +117,7 @@
             ],
             "subtitle" : [
                "%{composer|%{}}",
-               "",
+               "Arr: %{arranger|%{}}",
                "%{tempo|(%{} bpm)} %{time|%{}}"
             ],
             "title" : [
