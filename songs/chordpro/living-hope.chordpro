@@ -2,11 +2,11 @@
 {composer: Tim Hughes, Brian Johnson}
 {tempo: 72}
 {time: 4/4}
-{transpose: }
+{transpose: -2}
 {key: E}
 
 {start_of_verse: Intro}
-[| E   | A   | E   | A   |]
+[E] [A] [E] [A]
 {end_of_verse: Intro}
 
 {start_of_verse: Verse 1}
@@ -43,7 +43,7 @@ Jesus C[A]hrist my L[B]iving H[E]ope
 Then came the m[E]orning that sealed the p[B]romise
 Your buried [A]body [C#m]began to [B]breathe
 Out of the [E]silence, the roaring [B]lion
-Declared the [A]grave has no [B]claim on [E]me. [C#m - E/G#](2nd time)
+Declared the [A]grave has no [B]claim on [E]me. [C#m] [E/G#](2nd time)
 Jesus [A]Yours is the [B]victor[E]y
 {end_of_verse: Verse 3 (2x)}
 
