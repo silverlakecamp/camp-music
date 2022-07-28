@@ -1,0 +1,40 @@
+{title: }
+{composer: }
+{tempo: }
+{time: }
+{transpose: }
+{key: }
+
+{start_of_verse: Intro (2x)}
+{ci: instrument directions}
+{end_of_verse: Intro (2x)}
+
+{start_of_verse: Verse 1}
+{end_of_verse: Verse 1}
+
+{start_of_verse: Verse 2}
+{end_of_verse: Verse 2}
+
+{start_of_verse: Verse 3}
+{end_of_verse: Verse 3}
+
+{c: REPEAT VERSE 1}
+
+{start_of_verse: Pre-Chorus}
+{end_of_verse: Pre-Chorus}
+
+{soc: Chorus}
+{eoc: Chorus}
+
+{c: REPEAT INTRO}
+
+{start_of_verse: Verse 2}
+{end_of_verse: Verse 2}
+
+{c: REPEAT CHORUS}
+
+{soc: Bridge}
+{eoc: Bridge}
+
+{soc: Tag}
+{eoc: Tag}
