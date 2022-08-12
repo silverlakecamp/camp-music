@@ -1,11 +1,42 @@
 {
-   "chords" : [],
+   "chords" : [
+      {
+         "base": 1,
+         "name": "D/F#",
+         "frets": [2,0,0,2,3,2],
+         "fingers": [1,0,0,2,4,3],
+      },
+      {
+         "base": 1,
+         "name": "G2",
+         "frets": [3,0,0,2,0,3],
+         "fingers": [3,0,1,0,0,2],
+      },
+      {
+         "base": 1,
+         "name": "Gmaj9",
+         "frets": [3,0,0,2,0,2],
+         "fingers": [3,0,0,2,0,1],
+      },
+      {
+         "base": 1,
+         "name": "E/G#",
+         "frets": [4,2,2,4,0,0],
+         "fingers": [3,1,2,4,0,0],
+      },
+      {
+         "base": 1,
+         "name": "A/C#",
+         "frets": [-1,4,2,2,2,0],
+         "fingers": [0,3,1,1,1,0],
+      },
+   ],
    "diagnostics" : {
       "format" : "\"%f\", line %n, %m\n\t%l"
    },
    "diagrams" : {
       "auto" : false,
-      "show" : 0,
+      "show" : "all",
       "sorted" : false
    },
    "metadata" : {
@@ -47,13 +78,13 @@
       },
       "columnspace" : 20,
       "diagrams" : {
-         "height" : 8,
-         "hspace" : 3.95,
-         "linewidth" : 0.1,
          "show" : "right",
-         "vcells" : 4,
+         "width" : 6,
+         "height" : 6,
+         "hspace" : 3.95,
          "vspace" : 3,
-         "width" : 8
+         "linewidth" : 0.1,
+         "vcells" : 4,
       },
       "even-odd-pages" : 1,
       "fontdir" : [],
@@ -117,8 +148,8 @@
             ],
             "subtitle" : [
                "%{composer|%{}}",
-               "%{arranger|%{}}",
-               "%{tempo|(%{} bpm)} %{time|%{}}"
+               "%{artist|Artist: %{}}",
+               "%{tempo|(%{} bpm)} %{time|%{}} %{capo|(Capo %{})}"
             ],
             "title" : [
                "%{title}",
