@@ -6,11 +6,9 @@
 {key: G}
 
 {start_of_verse: Intro}
-[Em7   C   G   D]
-[Em7   C   G   D]
-[C   Em7   D]
-[C   Em7   D]
-{ci: Electric Guitar}
+[Em7][C][G][D]   [Em7][C][G][D]
+[C][Em7][D]       [C][Em7][D]
+{ci: guitar}
 {end_of_verse: Intro}
 
 {start_of_verse: Verse 1}
@@ -23,12 +21,12 @@
 {end_of_verse: Verse 1}
 
 {soc: Chorus}
-[C]You stay the sam[G]e through the ages
-[D] [Am7]Your love never changes [C]
+[C]You stay the sam[G]e through the ages [D]
+[Am7] Your love never changes [C]
 There may be [G]pain in the night
 But [D]joy comes in the morning [Am7] [G/B] [C]
-[G]When the oceans [D]rage
-I don't have [Am7]to be afraid
+[G] When the oceans [D]rage
+I don't [Am7]have to be afraid
 [C] Because I [G]know that You love me [D]
 [Am7] Your love never fails [C] [Em7] [D]
 {eoc: Chorus}
@@ -45,5 +43,5 @@ But [Em7]Your love never fails [C] [G] [D]
 {c: Repeat Chorus}
 
 {soc: Bridge (4x)}
-You make [C] all things w[Em7]ork together for my g[D]ood
+You make [C] all things [Em7]work together for my [D]good
 {eoc: Bridge (4x)}
