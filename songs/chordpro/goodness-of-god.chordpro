@@ -6,7 +6,7 @@
 {key: A}
 
 {start_of_verse: Intro (2x)}
-[| A / / D | A / / / | A / / D | A / / / |]
+[A]1 2 3 [D]4     [A]1 2 3 4
 {ci: Guitar, light drums}
 {end_of_verse: Intro (2x)}
 
@@ -46,7 +46,7 @@ I [E]give You every[F#m]thing
 {end_of_verse: Bridge (2x)}
 
 {start_of_verse: Interlude}
-[| A / / D | A / / / |]
+[A]1 2 3 [D]4     [A]1 2 3 4
 {end_of_verse: Interlude}
 
 {c: Repeat Chorus 1}

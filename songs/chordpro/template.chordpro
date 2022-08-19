@@ -6,7 +6,7 @@
 {key: key}
 
 {start_of_verse: Intro}
-[D ///][Bm9 ///][F#m ///][G ///]
+[D]1 2 3 4  [Bm9]1 2 3 4 [F#m]1 2 3 4  [G]1 2 3 4
 {ci: Intro instructions}
 {end_of_verse: Intro}
 
