@@ -5,19 +5,12 @@
 {transpose: 7}
 {key: A}
 
-{start_of_verse: Intro (2x)}
-[A][D][E]
-{ci: Guitar, lightly}
-{end_of_verse: Intro (2x)}
-
-{start_of_verse: Verse 1}
+{soc: Verse 1}
 [A] I'm for[D]given be[E]cause You were forsaken
 [A] I'm ac[D]cepted; [E] You were condemned
 [A] I'm a[D]live and well, Your [E]Spirit is within me
 be[D]cause You [E]died and rose a[A]gain
-{end_of_verse: Verse 1}
-
-{c: REPEAT VERSE 1}
+{eoc: Verse 1}
 
 {soc: Chorus}
 [A]Amazing love, [D2]how can it be
@@ -27,16 +20,19 @@ be[D]cause You [E]died and rose a[A]gain
 in all I [D2]do, [Esus] I honor [A]You
 {eoc: Chorus}
 
-{c: REPEAT INTRO}
-
-{start_of_verse: Verse 2}
+{soc: Verse 2}
 [A] I'm for[D]given be[E]cause You were forsaken
 [A] I'm ac[D]cepted; [E] You were condemned
 [A] I'm a[D]live and well, Your [E]Spirit is within me
 be[D]cause You [E]died and rose a[A]gain
-{end_of_verse: Verse 2}
+{eoc: Verse 2}
 
-{c: REPEAT CHORUS}
+{soc: Verse 3}
+[A]I'm ado[D]pted, be[E]cause you were forgotten
+[A]I'm re[D]deemed, and [E]you paid the price
+[A]I'm a [D]child of God and [E]now I have a Father
+be[D]cause you [E]died and you rose a[A]gain
+{eoc: Verse 3}
 
 {soc: Bridge}
 Word of God [A]speak
