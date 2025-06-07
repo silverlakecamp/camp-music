@@ -1,0 +1,63 @@
+{title: Doxology (God be Praised)}
+{composer: Todd Fields, Thomas Ken}
+{tempo: 92}
+{time: 4/4}
+{transpose: }
+{key: G}
+
+{sog: shape="4x1+2" label="Intro"}
+|: G | C/G | D/G | C/G :| repeat once
+{c: softly, acoustic + pad}
+{eog}
+
+{sov: Verse 1}
+[G]  Praise God from [C/G]whom all blessings [D/G] flow    [C/G]
+[G]  Praise Him all [C/G]creatures here be[D]low   [C]
+[G]  Praise Him a[C/G]bove, ye heavenly [Em]host   [C]
+[G]  Praise Father [C/G]Son and [D/G]Holy [G]Ghost
+{eov: Verse 1}
+
+{soc: Chorus}
+Praise the [C]Father, praise the [G]Son
+Praise the [D]Spirit, now with [Em]us
+Every [C]moment all our [G]days
+God be [D]praised, Oh [C]God be praised
+{eoc: Chorus}
+
+{sog: shape="4x1+2" label="Interlude"}
+|| G | C/G | D/G | C/G ||
+{c: drum groove begins}
+{eog}
+
+{sov: Verse 2}
+[G]  Praise God with [C/G]morning's breaking [D/G]light [C/G]
+[G]  Praise Him through [C/G]darkness of the [D]night [C]
+[G]  Praise Him with [C/G]every breath of [Em]life    [C]
+[G]  Praise Him my [C/G]soul with [D]all your [G]might [C/G] [G]
+{eov: Verse 2}
+
+{c: repeat chorus (x2)}
+
+{sog: shape="4x1+2" label="Interlude"}
+|| G | C/G | D/G | C/G ||
+{c: whole notes, only acoustic + pad}
+{eog}
+
+{sov: Verse 3}
+[G]  Praise God in [C/G]face to face we [D/G]see[C/G]
+[G]  The One who [C/G]died to set us [D]free   [C]
+[G]  The One who [C/G]rose in victo[Em]ry      [C]
+[G]  Praise now for[C/G]ever [D]Christ our [G]King
+{eov: Verse 3}
+
+{c: repeat chorus (x2)}
+
+{sov: Tag}
+God be [D]praised, Oh [C]God be praised
+{c: repeat}
+{eov: Tag}
+
+{sog: shape="4x1+2" label="Interlude"}
+|| G | C/G | D/G | C/G ||
+{c: fading to acapella verse 1}
+{eog}
