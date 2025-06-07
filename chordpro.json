@@ -143,7 +143,6 @@
     "format": "\"%f\", line %n, %m\n\t%l"
   },
   "diagrams": {
-    "auto": false,
     "show": "all",
     "sorted": false
   },
@@ -173,8 +172,8 @@
     "chorus": {
       "bar": {
         "color": "gray",
-        "offset": 8,
-        "width": 0.5
+        "offset": 0,
+        "width": 0
       },
       "indent": 0,
       "recall": {
@@ -194,6 +193,16 @@
       "linewidth": 0.1,
       "vcells": 6
     },
+    "grids": {
+      "cellbar": {
+        "width": 1,
+        "color": "gray"
+      },
+      "show": true,
+      "symbols": {
+        "color": "gray"
+      }
+    },
     "even-odd-pages": 1,
     "fontdir": [],
     "fonts": {
@@ -202,16 +211,16 @@
         "size": 11
       },
       "comment": {
-        "name": "Helvetica",
-        "size": 11
+        "name": "Courier",
+        "size": 9
       },
       "comment_italic": {
-        "name": "Courier",
-        "size": 10
+        "name": "Courier-Oblique",
+        "size": 9
       },
       "grid": {
-        "name": "Helvetica",
-        "size": 10
+        "name": "Helvetica-Bold",
+        "size": 11
       },
       "tab": {
         "name": "Courier",
@@ -233,28 +242,16 @@
     "footspace": 20,
     "formats": {
       "default": {
-        "footer": [
-          "%{title}",
-          "Silver Lake Wesleyan Camp, CCLI License #11067220",
-          "%{page}"
-        ],
+        "footer": ["%{title}", "Silver Lake Wesleyan Camp, CCLI License #11067220", "%{page}"],
         "subtitle": null,
         "title": null
       },
       "first": {
-        "footer": [
-          "%{title}",
-          "Silver Lake Wesleyan Camp, CCLI License #11067220",
-          "%{page}"
-        ]
+        "footer": ["%{title}", "Silver Lake Wesleyan Camp, CCLI License #11067220", "%{page}"]
       },
       "title": {
         "footer": ["%{title}", "", "%{page}"],
-        "subtitle": [
-          "%{composer|%{}}",
-          "%{artist|Artist: %{}}",
-          "%{tempo|(%{} bpm)} %{time|%{}} %{capo|(Capo %{})}"
-        ],
+        "subtitle": ["%{composer|%{}}", "%{artist|Artist: %{}}", "%{tempo|(%{} bpm)} %{time|%{}} %{capo|(Capo %{})}"],
         "title": ["%{title}", "", "%{key|Key of %{}}"]
       }
     },
@@ -273,7 +270,7 @@
     "spacing": {
       "chords": 1.2,
       "empty": 1,
-      "grid": 1.2,
+      "grid": 1.4,
       "lyrics": 1.2,
       "tab": 1,
       "title": 1.2,
