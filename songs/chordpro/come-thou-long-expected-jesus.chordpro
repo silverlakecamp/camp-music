@@ -1,0 +1,49 @@
+{title: Come Thou Long Expected Jesus}
+{composer: Kyle Cantrell}
+{tempo: }
+{time: 6/8}
+{transpose: }
+{key: G}
+
+{sog: shape="2x1+2" label="Intro"}
+| G | G |
+{c: softly, acoustic + pad + shaker}
+{eog}
+
+{sov: Verse 1}
+[G]Come, Thou long expected Jesus Born to set Thy people [C]free
+[G]From our fears and sins release us, Let us find our rest in [C]Thee
+[C]Israel's strength and [D]consolation, [Em7]Hope of all the [F]earth Thou art
+{c: drums in, hi-hats and rim}
+[G]Dear des[C]ire of [G]every [D]nation, [G]Joy of [C]every [G]long[D]ing [G]heart
+{c: full band, big}
+{eov: Verse 1}
+
+{sog: shape="2x6+2" label="Interlude"}
+|: G . . . . . | G . . G/B . . |
+|  C . . . . . | C . . D   . . :|
+{eog}
+
+{sov: Verse 2}
+[G]Born Thy people to deliver, Born a child and yet a [C]King
+[G]Born to reign in us forever, Now Thy gracious kingdom [C]bring
+[C]By Thine own et[D]ernal Spirit [Em7]Rule in all our h[F]earts alone;
+[G]By Thine [C]all suf[G]ficient [D]merit, [G]Raise us [C]to Thy [G]glori[D]ous [Em]thro[D/F#]ne. [G] [C]
+{eov: Verse 1}
+
+{sog: shape="4x1+2" label="Interlude"}
+| Em | D/F# | G | C |
+{c: quarter note build}
+{eog}
+
+{sov: Bridge}
+{c: 1st time down, building 2nd time, full band big 3rd time}
+[Em]Come, [D/F#]breath of heaven [G]come, [C]hope of life and [Em]love
+t[D/F#]ake your reign to [C]rule forever
+{c: repeat 3x, end on G}
+{eov: Bridge}
+
+{sog: shape="4x1+2" label="Tag"}
+|: Em | D/F# | G | C :|
+{c: end on G}
+{eog}
